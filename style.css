@@ -1,0 +1,155 @@
+body{
+    font-family: sans-serif;
+}
+
+.header{
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 250px;
+    flex: 1;
+    
+}
+
+
+.hero{
+    display: flex;
+    background-color: #1f2937;
+    padding: 100px 50px;
+    justify-content: center; 
+    align-items: center;
+    gap: 20px;
+}
+
+
+h1{
+    font-size: 48px;
+    color: white;
+    font-weight: 900;
+    width: 400px;
+    
+}
+
+.hero-p{
+    width: 450px;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.hero-btn{
+    background-color: #3882f6;
+    padding: 5px 12px;
+    border-radius: 7px;
+    box-shadow: none;
+    border: none;
+    
+}
+
+.hero-box{
+    width: 600px;
+    background-color: grey;
+    border-style: solid;
+    height: 250px;
+
+}
+
+ul{
+    display: flex;
+   
+    list-style: none;
+    gap: 10px;
+    color: white;
+}
+
+
+.mid-sec{
+    
+    padding-top: 50px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.mid-head{
+    align-items: center;
+    display: flex;
+    
+}
+
+.service-wrapper{
+    display: flex;
+    gap: 50px;
+    justify-content: space-between;
+    
+}
+
+.box-p{
+    width: 120px;
+    text-align: center;
+}
+
+.box{
+    
+    border-width: 2px;
+    border-color: #3882f6;
+    border-style: solid;
+    border-radius: 10px;
+    height: 120px;
+    width: 120px;
+
+}
+.quote-sec{
+    background-color: #e5e7eb;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.quote{
+    width: 500px;
+}
+
+.cta-sec{
+    display: flex;
+    padding: 50px;
+    justify-content: center;
+    
+}
+
+.cta-wrapper{
+    display: flex;
+    background-color: #3882f6;
+    padding: 20px 60px;
+    width: 500px;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.cta{
+    
+}
+
+.cta-h{
+    margin-bottom: -15px;
+}
+
+.cta-btn{
+    padding: 5px;
+}
+
+body{
+
+}
+
+.mid-sec{
+  
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    background-color: #1f2937;
+}
